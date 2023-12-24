@@ -1,11 +1,11 @@
 aiofiles
 aiohttp
+asyncio
 dnspython
 ffmpeg-python
 gitpython
 hachoir
 heroku3
-hydrogram
 lyricsgenius
 motor
 ntgcalls
@@ -13,6 +13,7 @@ pillow
 psutil
 pykeyboard
 py-tgcalls
+hydrogram
 python-dotenv
 pyyaml
 requests
@@ -21,4 +22,5 @@ spotipy
 tgcrypto
 youtube-search
 youtube-search-python
-yt-dlp==2023.07.06
+yt-dlp
+pynekobin
